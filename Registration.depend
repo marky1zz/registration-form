@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1654122202 source:c:\users\lenovo\desktop\c++ projects\registration\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
